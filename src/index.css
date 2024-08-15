@@ -2,7 +2,6 @@ body {
   margin: 0;
   font-family: 'Poppins';
   line-height: 1.5;
-  background-image: url(../public/images/25102.jpg);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
